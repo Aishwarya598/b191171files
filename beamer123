@@ -1,0 +1,22 @@
+\documentclass{beamer}
+\usetheme{AnnArbor}
+\title{introduction}
+\author{aishwarya}
+\date{\today}
+
+\begin{document}
+\ID=b191171
+\begin{frame}
+    \titlepage
+\end{frame}
+
+
+ \begin{frame}{Outline}
+     
+ \end{frame}
+
+
+\end{document}
+
+
+
