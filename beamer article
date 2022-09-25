@@ -1,0 +1,22 @@
+\documentclass{beamer}
+
+
+\usetheme{Antibes}
+\title{welcome aishu}
+\author{latex-beamer.com}
+
+\date{\today}
+
+\begin{document}
+
+
+\begin{frame}
+    \B191171
+\end{frame}
+
+
+
+\end{document}
+
+
+
